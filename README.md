@@ -8,8 +8,9 @@
 </br>
 
 ## About me :
+*I'm a French Computer Science Student !*
 
-#### > 19 y.o French Computer Science Student
+I don't really know ... text me .. maybe ? 
 
 </br>
 
@@ -41,8 +42,7 @@
 ## Contact Me :
 
 <p>
-  Twitter : @NinhacheUwU
-
+  Twitter : <a href="https://twitter.com/NinhacheUwU">@NinhacheUwU</a>
 </p>
 </br>
 
@@ -52,5 +52,3 @@
     <img  src="https://github-readme-stats.vercel.app/api?username=Ninhache&&show_icons=true&theme=radical"/>
   </a>
   </p>
-
-*************
