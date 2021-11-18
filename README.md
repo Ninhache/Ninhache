@@ -1,3 +1,8 @@
+<p style="display: none;">
+NAME:"Ninhache"  
+DESC:"C'est mon readme..."
+IMG:"https://media.discordapp.net/attachments/677556110143651849/910781413266182144/lyric_card_1637217366300_1.png?width=777&height=453"
+</p>
 
 # Hi, i'm Ninhache
 <!--
