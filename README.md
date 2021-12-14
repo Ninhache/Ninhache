@@ -12,6 +12,11 @@
 
 I don't really know ... text me .. maybe ? 
 
+<p style="margin-bottom:20px;" width="100%">
+  <img align="left" src="https://www.codewars.com/users/Ninhache/badges/large"/>
+</p>
+
+
 </br>
 
 ## Languages & Tools 💻:
@@ -41,9 +46,10 @@ I don't really know ... text me .. maybe ?
 
 ## Contact Me :
 
-<p>
-  Twitter : <a href="https://twitter.com/NinhacheUwU">@NinhacheUwU</a>
-</p>
+  <p>
+    Twitter : <a href="https://twitter.com/NinhacheUwU">@NinhacheUwU</a>
+  </p>
+  
 </br>
 
 
