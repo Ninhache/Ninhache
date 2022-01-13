@@ -56,6 +56,6 @@ I don't really know ... text me .. maybe ?
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img src=""/>
-    ![Texte alternatif](https://github-readme-stats.vercel.app/api?username=Ninhache&&show_icons=true&theme=radical "texte pour le titre, facultatif")
+    ![Stats github](https://github-readme-stats.vercel.app/api?username=Ninhache&&show_icons=true&theme=radical)
   </a>
   </p>
