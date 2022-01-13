@@ -52,10 +52,5 @@ I don't really know ... text me .. maybe ?
   
 </br>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ninhache&&show_icons=true&theme=radical)
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src=""/>
-    ![Stats github](https://github-readme-stats.vercel.app/api?username=Ninhache&&show_icons=true&theme=radical)
-  </a>
-  </p>
