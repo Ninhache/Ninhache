@@ -32,13 +32,15 @@ I don't really know ... text me .. maybe ?
   
   
   <img alt="C"          src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
-  
+  <img alt="C++"        src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
+
   <img alt="MySQL"      src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img alt="MongoDB"    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   
   
   <img alt="Windows"    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> 
+  <img alt="Linux"      src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 </br>
 
