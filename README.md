@@ -10,7 +10,10 @@
 ## About me :
 *I'm a French Computer Science Student !*
 
-I don't really know ... text me .. maybe ? 
+Hello! My name is Almeida Neo, I am 20 years old.
+I enjoy working on personal projects during my free time, which you can find on my [website](https://ninhache.fr/) !
+
+[Contact me !](#contacts)
 
 <p style="margin-bottom:20px;" width="100%">
   <img align="left" src="https://www.codewars.com/users/Ninhache/badges/large"/>
@@ -58,14 +61,19 @@ I don't really know ... text me .. maybe ?
 </br>
 
 
+<h2 id="contacts"> Contact me : </h2>
 
-## Contact Me :
+> **Warning**
+> You may prefer to contact me directly via [Discord][discord] for quicker answers.
 
-  <p>
-    Twitter : <a href="https://twitter.com/NinhacheUwU">@NinhacheUwU</a>
-  </p>
+  | ⬇️ | Tag |  |
+|--|--|--|
+| [<img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Twitter" width="32">][twitter] | `NinhacheUwU` | |
+| [<img src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" alt="Discord" width="32">][discord] | `Ninhache#7891` | For talk about everything |
+<!--| [<img src="" alt="" width="32">][] |  |  |-->
   
 </br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ninhache&&show_icons=true&theme=radical)
 
+[discord]: https://www.discord.com/users/236834751325929472
+[twitter]: https://twitter.com/NinhacheUwU
