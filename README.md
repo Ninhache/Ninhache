@@ -10,15 +10,10 @@
 ## About me :
 *I'm a French Computer Science Student !*
 
-Hello! My name is Almeida Neo, I am 20 years old.
+Hello! My name is Almeida Neo, I am 20 years old. <br>
 I enjoy working on personal projects during my free time, which you can find on my [website](https://ninhache.fr/) !
 
-[Contact me !](#contacts)
-
-<p style="margin-bottom:20px;" width="100%">
-  <img align="left" src="https://www.codewars.com/users/Ninhache/badges/large"/>
-</p>
-
+Don't be scared to [contact me !](#contacts)
 
 </br>
 
@@ -77,3 +72,8 @@ I enjoy working on personal projects during my free time, which you can find on 
 
 [discord]: https://www.discord.com/users/236834751325929472
 [twitter]: https://twitter.com/NinhacheUwU
+
+I enjoy challenging myself on CodeWars from time to time.
+<p style="margin-bottom:20px;" width="100%">
+  <img align="left" src="https://www.codewars.com/users/Ninhache/badges/large"/>
+</p>
