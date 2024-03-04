@@ -10,7 +10,7 @@
 ## About me :
 *I'm a French Computer Science Student !*
 
-Hello! My name is Almeida Neo, I am 20 years old. <br>
+Hello! My name is Almeida Neo, I am 21 years old. <br>
 I enjoy working on personal projects during my free time, which you can find on my [website](https://ninhache.fr/) !
 
 Don't be scared to [contact me !](#contacts)
