@@ -1,3 +1,8 @@
+<div style="display: flex">
+  <img align="right" src="https://badges.pufler.dev/visits/Ninhache/Ninhache" />
+  <img align="right" src="https://badges.pufler.dev/updated/Ninhache/Ninhache" />
+</div>
+
 <div align="center">
   <h1>Hi, I'm Ninhache! 👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer+in+Progress;Functional+Programming+Junkie;Arch+Linux+Enthusiast;NextJS+Addict;Rust+Lover;I+use+Arch+Btw" alt="Typing SVG">
