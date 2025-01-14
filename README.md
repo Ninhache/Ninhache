@@ -10,14 +10,14 @@
 
 ---
 
-## About Me 🧑‍💻
+## 🧑‍💻 About Me 
 *I'm a passionate French Computer Science Student with a love for clean code and creative projects.*
 
 Hi there! My name is **Almeida Néo**, and I’m 22 years old. I enjoy exploring new technologies, building creative solutions, and tackling complex challenges. Currently, I work in a **software engineering company**, honing my skills and contributing to impactful projects. 
 
 You can check out my personal projects on my [website](https://ninhache.fr/) or [GitHub](https://github.com/Ninhache/).
 
-### Fun Fact 🤔
+### 🤔 Fun Fact 
 >I use Arch btw. *(And no, it’s not just a joke, I *really* do.)*
 
 ---
